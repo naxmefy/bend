@@ -1,0 +1,6 @@
+[book]
+authors = ["MRW Neundorf"]
+language = "en"
+multilingual = false
+src = "src"
+title = "bend"
